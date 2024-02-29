@@ -1,0 +1,7 @@
+.container {
+  max-width: 1200px;
+}
+
+form.buy__vpn-form {
+  background: url("../../img/cow.png") right bottom/contain no-repeat;
+}
